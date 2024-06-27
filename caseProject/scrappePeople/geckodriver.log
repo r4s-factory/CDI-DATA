@@ -1,0 +1,138 @@
+1719478506226	geckodriver	INFO	Listening on 127.0.0.1:57382
+1719478509293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djibr\\AppData\\Local\\Temp\\rust_mozprofileO0ZnuA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719478510084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719478510228	Marionette	INFO	Listening on port 57405
+WebDriver BiDi listening on ws://127.0.0.1:57383
+Read port: 57405
+1719478510422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57383/devtools/browser/ff124c59-d886-454f-9c91-3ff6679a47c8
+JavaScript warning: https://static.licdn.com/sc/h/5x5auw8pt3gn1c3h6uftn4b2g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/5x5auw8pt3gn1c3h6uftn4b2g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://merchantpool1.linkedin.com/?session_id=de4faca5-654a-4ce7-87bd-188314474db5&CustomerId=fb6bbd47-fa7c-4264-b4e9-b25948407586&PageId=&w=8DC9686DECB8B6D&mdt=1719478519370&rticks=1719478518743, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: Script terminated by timeout at:
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27789
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: Script terminated by timeout at:
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27789
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+1719478540109	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1719478901127	geckodriver	INFO	Listening on 127.0.0.1:59124
+1719479288838	geckodriver	INFO	Listening on 127.0.0.1:60744
+1719479291954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djibr\\AppData\\Local\\Temp\\rust_mozprofileQhgvAL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719479292795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719479292952	Marionette	INFO	Listening on port 60769
+WebDriver BiDi listening on ws://127.0.0.1:60745
+Read port: 60769
+1719479293130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60745/devtools/browser/d971b1ab-22d6-42a0-ba9d-94d9c4b2728a
+JavaScript warning: https://static.licdn.com/sc/h/5x5auw8pt3gn1c3h6uftn4b2g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/5x5auw8pt3gn1c3h6uftn4b2g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://merchantpool1.linkedin.com/?session_id=c22aca9f-c162-4e52-8254-208e48af610f&CustomerId=fb6bbd47-fa7c-4264-b4e9-b25948407586&PageId=&w=8DC9688AFE236E0&mdt=1719479299797&rticks=1719479299032, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: Script terminated by timeout at:
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27789
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: Script terminated by timeout at:
+zo@https://client.protechts.net/PXdOjV695v/main.min.js:3:7877
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27818
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+1719479322872	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 2: Script terminated by timeout at:
+s/s<@https://client.protechts.net/PXdOjV695v/main.min.js:2:1183
+zo@https://client.protechts.net/PXdOjV695v/main.min.js:3:7895
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27818
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/6jt0pz9xt09q64vhostx9ptin, line 21881: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/7gufzy62aydw0pxr540v7pskh, line 2664: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 2: Script terminated by timeout at:
+s/s<@https://client.protechts.net/PXdOjV695v/main.min.js:2:1183
+zo@https://client.protechts.net/PXdOjV695v/main.min.js:3:7895
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27818
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 3: Script terminated by timeout at:
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27789
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.protechts.net/PXdOjV695v/main.min.js, line 2: Script terminated by timeout at:
+s/s<@https://client.protechts.net/PXdOjV695v/main.min.js:2:1183
+zo@https://client.protechts.net/PXdOjV695v/main.min.js:3:7895
+zu@https://client.protechts.net/PXdOjV695v/main.min.js:3:27818
+Lu@https://client.protechts.net/PXdOjV695v/main.min.js:3:25807
+ui@https://client.protechts.net/PXdOjV695v/main.min.js:3:9103
+ii@https://client.protechts.net/PXdOjV695v/main.min.js:3:8916
+
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/crft8y4d68hg2rswyd3abb1d3, line 266: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+Exiting due to channel error.
